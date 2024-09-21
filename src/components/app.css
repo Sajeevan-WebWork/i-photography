@@ -1,0 +1,5 @@
+@media screen and (max-width:1024px) {
+    .Herader__container {
+      padding: 0 20px !important;
+    }
+  }
